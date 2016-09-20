@@ -43,7 +43,13 @@ http://bootstraplovers.com/templates/assan-v2.4/main-template/index.html
 
 
 
-check the about us check our it links to the services and the boxes in the services will be what we will use
+check the about us page, you wil see that there is a service button there that links to the services page
+
+Next, chechk the services page there are boxes whic will fit for each service you offer .
+
+Futher, the theme will be adjusted to suit your specifications.
+
+Kindly view the remianing links and revert.
 
 
 http://bootstraplovers.com/templates/assan-v2.4/main-template/about.html
