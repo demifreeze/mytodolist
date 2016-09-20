@@ -36,6 +36,10 @@ breadcrum   #c2d8ef
 
 
 
+Instructions
+
+1. Navigate to the url below
+
 http://bootstraplovers.com/templates/assan-v2.4/main-template/index.html
 
 
